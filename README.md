@@ -103,6 +103,7 @@ The deepest collection of prediction market CLIs, SDKs, and agent frameworks on 
 | [Browser Use](https://github.com/browser-use/browser-use) | 50k | Open-source browser agent library. See, click, type. | `pip install browser-use` | Python |
 | [Skyvern](https://github.com/Skyvern-AI/skyvern) | 10k | Vision-driven browser navigation for AI agents. | `pip install skyvern` | Python |
 | [Playwright MCP](https://github.com/anthropics/playwright-mcp) | 3k | Playwright browser automation exposed as MCP tools. | `npx @anthropic/playwright-mcp` | TypeScript |
+| [Agent QA](https://github.com/vostride/agent-qa) | 901 | Natural-language web, Android, and iOS tests with execution memory and MCP tools; source-available (FSL-1.1-ALv2). | `npm install -D agent-qa` | TypeScript |
 
 ---
 
